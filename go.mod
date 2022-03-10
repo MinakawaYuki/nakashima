@@ -1,4 +1,4 @@
-module nakashima
+module github.com/MinakawaYuki/nakashima
 
 go 1.17
 
