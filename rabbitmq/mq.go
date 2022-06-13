@@ -1,6 +1,6 @@
 package rabbitmq
 
-import "nakashima/rabbitmq/service"
+import "github.com/MinakawaYuki/nakashima/rabbitmq/service"
 
 // NewRabbitMq 创建mq对象
 // uri mq连接字符串
